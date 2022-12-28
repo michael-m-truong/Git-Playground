@@ -1,0 +1,14 @@
+{
+  "name": "git-playground",
+  "version": "1.0.0",
+  "description": "Playing around with git",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
